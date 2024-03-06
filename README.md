@@ -25,3 +25,13 @@ git remote add origin https://github.com/YaroslavPolitykin/Git3.git
 git branch -M main
 git push -u origin main
 ````
+Получить изменения из удалённого репозитория и выполнить слияние с локальной версией:
+```bash
+git pull
+```
+```c#
+while(n<0)
+{
+  n++;
+}
+```
